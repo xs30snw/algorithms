@@ -1,3 +1,4 @@
 other/benchmarking/benchmarking
 sorting/selection_sort/selection_sort
 sorting/insertion_sort/insertion_sort
+sorting/shellsort/shellsort
