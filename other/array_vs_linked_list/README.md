@@ -10,7 +10,9 @@ Arrays and Linked lists have different time complexities for operations.
 
 ### Types of Linked lists
 In **Singly linked list** the first element points to the second, the second to the third, and so on.
+
 In **Doubly linked list** not only does the first element points to the second, but the second also points to the first.
+
 In **Circular Linked List** the first element is linked with the last.
 
 TODO
